@@ -3,7 +3,7 @@ layout: page
 title: About | 
 ---
 
-##About Me
+#About Me
 
 I am a writer, programmer, and occasional designer. I've done a couple of things I'm happy about.
 
