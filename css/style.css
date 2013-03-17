@@ -101,6 +101,7 @@ footer {
   font-size: 12px;
   border-top: 1px solid #888;
   padding: 15px 0;
+  margin-left: -30px;
 }
 
 /* Content styles */
@@ -116,4 +117,13 @@ footer {
 .sidebar h3 {
   font-size: 22px;
   line-height: 140%;
+}
+
+.posts {
+  font-size: 18px;
+  line-height: 140%;
+}
+
+.posts li span {
+  color: #999;
 }

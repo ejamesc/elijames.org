@@ -1,0 +1,73 @@
+---
+layout: single
+---
+
+# Leverage
+
+<p>The idea that <strong>you</strong> can make the world a better place is a powerful idea to have in your head. For instance, if you <em>really</em> are making a positive dent in the universe, you would be more motivated to go to work every morning.<sup>[1]</sup></p>
+
+<p>But not everyone believes in this. Most people in university, for instance, put it off by reasoning that they are in no position to affect large change in the world. Part of it is the idea that people in school are in-training: learn first, the idea goes, the day will come when you will get to do Big Things. </p>
+
+<p>Till then the ambition to make the world a better place becomes an issue of scope. Driven students start clubs, run on-campus theatre productions, or organise community-service trips to needy countries. They, too, are able to make the world a better place, but at a smaller scope. </p>
+
+<p>What is the smallest meaningful scope for positive change? I'd say that a father taking time out to play with his children is making the world a better place. The opposite end of the spectrum is a global scope - something that affects the whole of humanity. For instance: inventing inter-planetary travel for human beings. <sup>[2]</sup></p>
+
+<p>If we formalise the scope of change-the-world ambitions, we'd probably come up with something like this: </p>
+
+<ol>
+	<li>I'm going to love my kids and watch them grow up healthy and happy</li>
+	<li>I'm going to contribute to my community. (Playing basketball for the university. Helping out at college events. Church).</li>
+	<li>I'll make my community / company / organization a fundamentally better place. (Founding a club in college, leading an NGO to greater heights, making a large impact in a company) </li>
+	<li>I'll change my country. (Revolutions, fundamental policy shift, sweeping political change, and new country creation).</li>
+	<li>I'm going to change the nature of an entire industry (create Facebook; start the next Apple).</li>
+	<li>I'll change humanity. (Inter-planetary travel, cures for cancer, robotic brains).</li>
+</ol>
+
+<p>All things being equal, it's probably better to work in areas where the scope for positive change is large rather than to work in areas where that scope is small. The more people your work affects, the more good you will be able to do in your lifetime. </p>
+
+<p>To a student, however, it isn't clear how to work on scopes larger than (2). This is probably why most students don't aim for change beyond their immediate communities - e.g. they organise flash mobs instead of tackling world poverty. It takes a certain kind of audaciousness to think that you may change the world at scopes (3) or more.</p>
+
+<p>But this can be done. For example, students working in a research group in University are contributing to work that may affect millions of lives. In fact, because knowledge in science is cumulative, it is almost certain that they are contributing in some small way to humanity (so long as the research they're working on is on something meaningfully important).</p>
+
+<p>Research takes a long time, however. The returns on effort there are vanishingly small (which probably explains why flash mobs are more attractive than research, in addition to the fact that research is hard). Is there a way around this restriction?</p>
+
+<p>I'd like to think that there's a shortcut. I think students can start making a sizeable dent in the world today if they leverage technology to their advantage. </p>
+
+<p>What do I mean by this? </p>
+
+<p>Let's frame this question another way: given a large, intractable real-world problem, what leverage can I use today to make a meaningful dent in that problem? Additionally, how can I maximise my impact relative to the amount of work I can do? </p>
+
+<p>If you think about it  long enough, you'd very likely converge to an angle of attack that is technological in nature (or, at least, has technology as part of its execution).</p>
+
+<p>This is because technology works as a multiplier. It allows people to do more with less. Work done in technology is inherently scalable - an engineer with a new method for filtering water, for instance, may put the blueprints for the prototype online, allowing workers in many other countries to manufacture this innovation. </p>
+
+<p>And technology deficiencies exist everywhere.</p>
+
+<p>For example, as important as the engineer who invents the technique is the person (possibly student) who figures out how to fix the information asymmetry problem. The information asymmetry problem is that not everyone will know of the existence of these blueprints. There is value in aggregating publicly available innovations and putting it in the hands of people who can do things with them. Fixing information asymmetry is an incredible form of leverage: the people improving information flow will have an outsized impact relative to their effort. </p>
+
+<p>Another example: an economics student in India interested in development economics may make an outsized contribution to her country by aggregating publicly-available data sets, and analysing them for free<sup>[3]</sup>. Even better, if she could figure out a way to allow other students -- like herself -- to contribute to such analysis, she would have made a small but meaningful dent in the problem of poverty.</p>
+
+<p>So long as she leverages the Internet to disseminate this information, she would work in a scope of at least (3). </p>
+
+<p>Programmers working on information flow in politics would be working in a scope of at least (4). Mitch Kapor, in a 2008 Berkeley Business keynote, talked about how a company called <a href="http://www.bluestatedigital.com/">Blue State Digital</a> made a significant difference in the Obama campaign. </p>
+
+<p>Blue State Digital <a href="http://www.bluestatedigital.com/work/case-studies/barack-obama">built software</a> for campaign organisers. The software organised door-to-door volunteers according to region, tracked campaign donations according to households, auto-assigned lists of phone-numbers to voter-contact volunteers (e.g. call these 50 voters today, these 40 voters tomorrow), and allowed these voter-contact volunteers to aggregate information, on nearly a house-by-house basis on where people's opinions swung (I'm going to vote Obama/I'm not going to vote this year). </p>
+
+<p>Now imagine if this software was available to political parties in Malaysia, or Singapore. Imagine the ability they would have in organising and contacting citizens. Imagine how this would change the nature of their country's general elections.</p>
+
+<p>In simple terms, technology deficiencies that exist today allow students to make outsized contributions to the world than they otherwise might have. A student working on Blue State Digital-type software would have a far larger impact on his country than a student working the streets as a activist-volunteer. And you don't have to be a technologist to enjoy the outsized impact of technology - for instance, you could work in the office responsible for such software and still make a large impact: by educating campaign managers about the use of their software. <sup>[4]</sup></p>
+
+<p>There is a saying attributed to Archimedes that goes: give me a lever long enough, and a fulcrum on which to place it, and I shall move the world. Students who want to change the world today have access to one such lever. It's called technology.</p>
+
+<p>Use it to your advantage.</p>
+
+<p><strong>Footnotes</strong></p>
+
+<p><sup>[1]</sup> The literature on motivation shows that people love their work when a) they feel they're good at what they do, and b) they feel like they're making an impact on the world.</p>
+
+<p><sup>[2]</sup> This is not science fiction; there are actual people working on this problem. <a href="http://en.wikipedia.org/wiki/Elon_Musk">Elon Musk</a>, for instance.</p>
+
+<p><sup>[3]</sup> There are lots of interesting questions to ask here: for instance, what correlations exist between education spending, school facilities, teacher graduation rates, and student admission-attendance rates?</p>
+
+<p><sup>[4]</sup> Put another way: when given a choice to change the world with technology and without technology, always opt for the approach that includes technology.</p>
+
