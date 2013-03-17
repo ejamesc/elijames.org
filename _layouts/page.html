@@ -1,0 +1,11 @@
+---
+layout: base
+---
+<div class='span6 content'>
+{{ content }}
+</div>
+<div class='span3 offset1 sidebar'>
+  {% if {{page.title}} == 'About |' %}
+    {% include name_explain.html %}
+  {% endif %}
+</div>

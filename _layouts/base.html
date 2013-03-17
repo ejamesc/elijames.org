@@ -1,17 +1,21 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Eli James &middot; I Solve Problems</title>
+    <title>{{ page.title }} Eli James &middot; I Solve Problems</title>
     <meta content='Eli James' name='author' />
     <meta content='Personal site of Eli James' name='description' />
 
     <link href='/css/bootstrap.min.css' type='text/css' rel='stylesheet' />
     <link href='/css/style.css' type='text/css' rel='stylesheet' />
+    <link href='http://fonts.googleapis.com/css?family=Radley' rel='stylesheet' type='text/css'>
   </head>
   <body>
     <div class='container'>
+      <div class='row-fluid'>
+      {% include header.html %}
       {{ content }}
       {% include footer.html %}
+      </div>
     </div>
   </body>
 </html>

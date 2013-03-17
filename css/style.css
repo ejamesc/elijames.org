@@ -2,3 +2,118 @@
  * 
  */
 
+/* STYLES
+ * 
+ */
+
+body { font-family: 'Radley', serif; }
+
+p { line-height: 140%; font-size: 18px; }
+
+/* Header and Navigation styles */
+
+header {
+  border-bottom: 1px solid #888;
+  margin-bottom: 10px;
+  height: 80px;
+}
+
+header h1 {
+  display: inline-block;
+  float: left;
+  clear: both;
+  font-size: 30px;
+  margin-top: 2%;
+}
+
+header h1 a { color: #333; }
+header h1 a:hover { color: #333; text-decoration: none; }
+
+nav ul {
+  font-family: Helvetica, Arial, sans-serif;
+  list-style: none;
+  display: inline-block;
+  border-left: 1px dotted #333;
+  margin: 0 40px 10px 0;
+}
+
+nav ul li {
+  font-size: 13px;
+  margin: 0 0 5px 15px;
+  text-transform: lowercase;
+}
+
+nav {
+  float: right;
+  margin-top: 20px;
+}
+
+nav a {
+  color: #111;
+}
+
+/* Front Page Styles */
+.index-left {
+  text-align: right;
+}
+
+.copylink {
+  font-size: 110px;
+  text-transform: uppercase;
+  line-height: 85%;
+}
+
+.bright a { color: #009fee }
+.dark a { color: #004f77 }
+.red a { color: #CC4100 }
+
+.copylink a:hover {
+  text-decoration: none;
+  color: #333;
+}
+
+.copy-comma {
+  font-size: 50px;
+  line-height: 85%;
+}
+
+.copy-right {
+  margin-top: 10px;
+}
+
+.social {
+  font-family: Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  padding: 10px 0 10px 20px;
+  margin-top: 15px;
+  font-size: 17px;
+  text-align: center;
+}
+
+.social a { color: #444 }
+
+.email-link {
+  font-size: 30px;
+}
+
+/* Footer styles */
+footer {
+  font-size: 12px;
+  border-top: 1px solid #888;
+  padding: 15px 0;
+}
+
+/* Content styles */
+.content {
+  padding-bottom: 20px;
+}
+
+/* Sidebar styles */
+.sidebar p {
+  font-size: 17px;
+}
+
+.sidebar h3 {
+  font-size: 22px;
+  line-height: 140%;
+}
