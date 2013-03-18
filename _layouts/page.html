@@ -1,11 +1,13 @@
 ---
 layout: base
 ---
-<div class='span6 content'>
-{{ content }}
-</div>
-<div class='span3 offset1 sidebar'>
-  {% if {{page.title}} == 'About |' %}
-    {% include name_explain.html %}
+<div class='row-fluid'>
+  <div class='span6 content'>
+    {{ content }}
+  </div>
+  <sidebar class='span3 offset1 sidebar'>
+  {% if page.title == 'About' %}
+  {% include name_explain.html %}
   {% endif %}
+  </sidebar>
 </div>

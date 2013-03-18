@@ -8,7 +8,7 @@
 
 body { font-family: 'Radley', serif; }
 
-p { line-height: 140%; font-size: 18px; }
+p, li { line-height: 140%; font-size: 18px; }
 
 /* Header and Navigation styles */
 
@@ -66,6 +66,7 @@ nav a {
 .bright a { color: #009fee }
 .dark a { color: #004f77 }
 .red a { color: #CC4100 }
+.green a { color: #51a351 }
 
 .copylink a:hover {
   text-decoration: none;
@@ -90,7 +91,7 @@ nav a {
   text-align: center;
 }
 
-.social a { color: #444 }
+.social a { color: #003855; }
 
 .email-link {
   font-size: 30px;
@@ -101,17 +102,20 @@ footer {
   font-size: 12px;
   border-top: 1px solid #888;
   padding: 15px 0;
-  margin-left: -30px;
 }
 
 /* Content styles */
 .content {
   padding-bottom: 20px;
+  padding-left: 20px;
 }
+
+.content h1 { margin-bottom: 0.9em; }
+.content p { margin: 15px 0; }
 
 /* Sidebar styles */
 .sidebar p {
-  font-size: 17px;
+  font-size: 15px;
 }
 
 .sidebar h3 {
@@ -119,11 +123,28 @@ footer {
   line-height: 140%;
 }
 
+/* Posts listing style */
 .posts {
   font-size: 18px;
   line-height: 140%;
 }
 
+.posts li {
+  list-style: none;
+  line-height: 140%;
+  margin-bottom: 10px;
+}
+
+.posts li a { font-size: 25px; }
+
 .posts li span {
   color: #999;
+  display: block;
+  clear: both;
+  font-style: italic;
+}
+
+/* Photos styles */
+.photos a img {
+  padding-bottom: 20px;
 }

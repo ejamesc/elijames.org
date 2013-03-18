@@ -2,8 +2,6 @@
 layout: single
 title: Talent Waste 
 ---
-# Talent Waste
-
 <p>It's always struck me as somewhat strange when people in Computing call out our field, <a href="http://www.businessweek.com/magazine/content/11_17/b4225060960537.htm">arguing</a> that "the best minds of 'my' generation are wasting their lives thinking about how to get people to look at more ads." </p>
 
 <p>Or, as my friends put it: 'why work for X? What they do is <em>so</em> useless!'</p>

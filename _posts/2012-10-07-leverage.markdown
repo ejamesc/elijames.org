@@ -1,8 +1,7 @@
 ---
 layout: single
+title: Leverage
 ---
-
-# Leverage
 
 <p>The idea that <strong>you</strong> can make the world a better place is a powerful idea to have in your head. For instance, if you <em>really</em> are making a positive dent in the universe, you would be more motivated to go to work every morning.<sup>[1]</sup></p>
 
@@ -61,7 +60,7 @@ layout: single
 
 <p>Use it to your advantage.</p>
 
-<p><strong>Footnotes</strong></p>
+<p><h3>Footnotes</h3></p>
 
 <p><sup>[1]</sup> The literature on motivation shows that people love their work when a) they feel they're good at what they do, and b) they feel like they're making an impact on the world.</p>
 

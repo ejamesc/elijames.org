@@ -3,8 +3,6 @@ layout: single
 title: Do We Need A New Richard Stallman?
 ---
 
-##Do We Need A New Richard Stallman?
-
 <p>A heretical thought struck me recently, while at a dialog session with Free Software founder Richard Stallman. Could it be that the Free Software movement is &mdash; today &mdash; irrelevant? This notion is repulsive: we owe so much to rms's multi-decade crusade for Software Freedom and universal digital liberties. </p>
 
 <p>Once I got over the initial revulsion, however, I realized that there is a small kernel of truth in the idea. The biggest dangers to digital freedom today is no longer with proprietary software (vs Free Software) &mdash;  arguably, it is with addictive, networked applications that collect our data and hold us hostage to their services.</p>

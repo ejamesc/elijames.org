@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ page.title }} Eli James &middot; I Solve Problems</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}Eli James &middot; I Solve Problems</title>
     <meta content='Eli James' name='author' />
     <meta content='Personal site of Eli James' name='description' />
 
@@ -11,11 +11,9 @@
   </head>
   <body>
     <div class='container'>
-      <div class='row-fluid'>
       {% include header.html %}
       {{ content }}
       {% include footer.html %}
-      </div>
     </div>
   </body>
 </html>

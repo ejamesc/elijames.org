@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About | 
+title: About 
 ---
 
 #About Me
+<img src='http://farm5.staticflickr.com/4143/4862571035_e28fa263c3_z.jpg'/>
 
 I am a writer, programmer, and occasional designer. I've done a couple of things I'm happy about.
 
@@ -18,6 +19,8 @@ In late 2011 I contributed [a chapter](http://book.pressbooks.com/chapter/web-li
 I try as much as possible to [write open source software](https://github.com/shadowsun7).
 
 From mid-2010 - late-2012 I served as President of the [NUS Hackers](http://nushackers.org/). I started [Friday Hacks](http://nushackers.org/fridayhacks/) and ran the first Hack&Roll Hackathon. Whatever free time I have left is spent growing the community of hackers and builders in NUS. This mostly means setting up partnerships, organizing events, and writing software to make the club more scalable.
+
+<img src="http://farm4.staticflickr.com/3162/3098073926_5e963bd790_z.jpg" width="640" height="427" alt="I Miss Judo">
 
 In a previous life, I played Judo for my state (2008 National Championships; SUKMA shadow team). I also debated in school. Both sports have shaped the way I see the world.
 

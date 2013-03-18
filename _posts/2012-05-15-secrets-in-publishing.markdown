@@ -2,8 +2,6 @@
 layout: single
 title: Secrets in Publishing
 ---
-# Secrets in Publishing
-
 <p>Peter Thiel&#8217;s latest CS183 class is about secrets. A 0-to-1 startup exists to find secrets (even one is enough) and execute on them. The best secrets are the ones that are both big and true. This is obvious, but worth saying: we sometimes limit ourselves to looking for small or false secrets.</p>
 
 <p>Peter posits that there are two methods to finding secrets: the first way is to work things out for yourself, which is what scientists do. The second way is to look at what people are <em>not</em> talking about. The second way is slightly more applicable to &#8216;people secrets&#8217; (economics; business opportunities), as opposed to &#8216;nature secrets&#8217; (chemistry, physics). The second way is usually easier.</p>
