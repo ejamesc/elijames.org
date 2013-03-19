@@ -185,3 +185,6 @@ footer {
   display: block;
 }
 
+.codelist {
+  border-bottom: 1px solid #ddd;
+}
