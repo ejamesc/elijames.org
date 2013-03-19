@@ -20,9 +20,7 @@ I try as much as possible to [write open source software](https://github.com/sha
 
 From mid-2010 - late-2012 I served as President of the [NUS Hackers](http://nushackers.org/). I started [Friday Hacks](http://nushackers.org/fridayhacks/) and ran the first Hack&Roll Hackathon. Whatever free time I have left is spent growing the community of hackers and builders in NUS. This mostly means setting up partnerships, organizing events, and writing software to make the club more scalable.
 
-<img src="http://farm4.staticflickr.com/3162/3098073926_5e963bd790_z.jpg" width="640" height="427" alt="I Miss Judo">
-
-In a previous life, I played Judo for my state (2008 National Championships; SUKMA shadow team). I also debated in school. Both sports have shaped the way I see the world.
+In a previous life, I played Judo for my state _(2008 National Championships; SUKMA shadow team)_. I also debated in school. Both sports have shaped the way I see the world.
 
 I like Python, green tea and cats. I think vanilla ice cream is better than chocolate ice cream, and I will fight you on that.
 

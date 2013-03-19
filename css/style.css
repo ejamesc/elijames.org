@@ -6,9 +6,9 @@
  * 
  */
 
-body { font-family: 'Radley', serif; }
+body { font-family: 'radley', serif; }
 
-p, li { line-height: 140%; font-size: 18px; }
+p, li { line-height: 140%; font-size: 17px; }
 
 /* Header and Navigation styles */
 
@@ -147,4 +147,10 @@ footer {
 /* Photos styles */
 .photos a img {
   padding-bottom: 20px;
+}
+
+/* Design styles */
+
+.design {
+  border-top: 1px solid #888;
 }
