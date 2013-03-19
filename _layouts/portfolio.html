@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}Eli James &middot; Chronic Problem Solver</title>
+    <meta content='Eli James' name='author' />
+    <meta content='Personal site of Eli James' name='description' />
+
+    <link href='/css/bootstrap.min.css' type='text/css' rel='stylesheet' />
+    <link href='/css/style.css' type='text/css' rel='stylesheet' />
+    <link href='http://fonts.googleapis.com/css?family=Radley' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class='container'>
+      {% include header.html %}
+      {{ content }}
+      {% include footer.html %}
+    </div>
+  </body>
+  <script>
+    $('.carousel').carousel({interval: false, pause: false});
+  </script>
+</html>

@@ -1,0 +1,30 @@
+---
+layout: portfolio
+---
+<div class='row-fluid'>
+  <div class='design span10'>
+    <h1><a href="/design">&laquo; Design Work</a></h1>
+  </div>
+</div>
+<div class='row-fluid'>
+  <div class='span6'>
+    <div class='design-nav'>
+      <!-- Carousel nav -->
+      <a href="#myCarousel" data-slide="prev">previous</a> / 
+      <a href="#myCarousel" data-slide="next">next image</a>
+    </div>
+    <div id="myCarousel" class="carousel slide">
+      {{ content }}
+    </div>
+  </div>
+
+  <div class='span4'>
+    <div class='desc'>
+      {% if page.sidebar %}
+        {{ page.sidebar}}
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+

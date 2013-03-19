@@ -27,7 +27,7 @@ header h1 {
 }
 
 header h1 a { color: #333; }
-header h1 a:hover { color: #333; text-decoration: none; }
+header h1 a:hover { text-decoration: none; color: #004f77; }
 
 nav ul {
   font-family: Helvetica, Arial, sans-serif;
@@ -63,8 +63,8 @@ nav a {
   line-height: 85%;
 }
 
-.bright a { color: #009fee }
-.dark a { color: #004f77 }
+.dark a { color: #005a88 }
+.darker a { color: #003855 }
 .red a { color: #CC4100 }
 .green a { color: #51a351 }
 
@@ -152,5 +152,35 @@ footer {
 /* Design styles */
 
 .design {
-  border-top: 1px solid #888;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
 }
+
+.design h1 a { color: #333; }
+.design h1 a:hover { text-decoration: none; color: #004f77; }
+
+.design-nav {
+  text-transform: uppercase;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.portfolio {
+  list-style: none;
+  margin: 0px;
+}
+
+.portfolio li {
+  display: inline-block;
+  width: 200px;
+  margin: 15px 20px 15px 0;
+}
+
+.portfolio img { border: 1px solid #ddd; }
+
+.portfolio li span {
+  font-size: 13px;
+  display: block;
+}
+
+.carousel-inner { border: 1px solid #ddd; }
