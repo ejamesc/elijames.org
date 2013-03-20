@@ -48,24 +48,29 @@ nav ul {
   margin: 0 40px 10px 0;
 }
 
-nav ul li {
+@media (min-width:321px) {
+  nav {
+  float: right;
+  margin-top: 20px;
+  }
+
+  nav ul li {
   font: 13px Helvetica, Arial, sans-serif;
   margin: 0 0 5px 15px;
   text-transform: lowercase;
-}
-
-/* tofix: CSS bug */
-@media (max-width:320px) {
-  nav {
-  float: left;
-  margin-top: 30px;
   }
 }
 
-@media (min-width:321px) {
-    nav {
-  float: right;
-  margin-top: 20px;
+@media (max-width:320px) {
+  nav {
+  float: left;
+  margin-top: 10px;
+  }
+
+  nav ul li {
+  font: 14px Helvetica, Arial, sans-serif;
+  margin: 0 0 5px 10px;
+  text-transform: lowercase;
   }
 }
 
@@ -94,9 +99,17 @@ nav a {
   }
 }
 
-@media (max-width:480px) {
+@media (min-width: 321px) and (max-width:480px) {
   .copylink {
   font-size: 70px;
+  text-transform: uppercase;
+  line-height: 80%;
+  }
+}
+
+@media (min-width:230px) and (max-width:320px) {
+  .copylink {
+  font-size: 50px;
   text-transform: uppercase;
   line-height: 85%;
   }
