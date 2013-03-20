@@ -4,7 +4,7 @@ title: About
 ---
 
 #About Me
-<img src='http://farm5.staticflickr.com/4143/4862571035_e28fa263c3_z.jpg'/>
+<img src="http://farm4.staticflickr.com/3162/3098073926_5e963bd790_z.jpg" width="640" height="427" alt="I Miss Judo">
 
 I'm a writer, programmer, and occasional designer. I've done a few of things I'm happy about.
 

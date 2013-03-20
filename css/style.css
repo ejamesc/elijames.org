@@ -44,9 +44,19 @@ nav ul li {
   text-transform: lowercase;
 }
 
-nav {
+/* tofix: CSS bug */
+@media (max-width:480px) {
+  nav {
+  float: left;
+  margin-top: 30px;
+  }
+}
+
+@media (min-width:481px) {
+    nav {
   float: right;
   margin-top: 20px;
+  }
 }
 
 nav a {
@@ -58,10 +68,36 @@ nav a {
   text-align: right;
 }
 
-.copylink {
-  font-size: 100px;
+@media (min-width:768px) and (max-width: 979px) {
+  .copylink {
+  font-size: 90px;
   text-transform: uppercase;
   line-height: 85%;
+  }
+}
+
+@media (min-width:980px) {
+  .copylink {
+  font-size: 110px;
+  text-transform: uppercase;
+  line-height: 85%;
+  }
+}
+
+@media (max-width:767px) {
+  .copylink {
+  font-size: 110px;
+  text-transform: uppercase;
+  line-height: 85%;
+  }
+}
+
+@media (max-width:480px) {
+  .copylink {
+  font-size: 90px;
+  text-transform: uppercase;
+  line-height: 85%;
+  }
 }
 
 .dark a { color: #005a88 }
@@ -110,7 +146,6 @@ footer {
 /* Content styles */
 .content {
   padding-bottom: 20px;
-  padding-left: 20px;
 }
 
 .content h1 { margin-bottom: 0.9em; }
