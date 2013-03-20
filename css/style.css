@@ -12,11 +12,21 @@ p, li {
 }
 
 /* Header and Navigation styles */
-
 header {
   border-bottom: 1px solid #888;
   margin-bottom: 10px;
+}
+
+@media all {
+  header {
   height: 80px;
+  }
+}
+
+@media (max-width:320px) {
+  header {
+  height: 50px;
+  }
 }
 
 header h1 {
@@ -45,14 +55,14 @@ nav ul li {
 }
 
 /* tofix: CSS bug */
-@media (max-width:480px) {
+@media (max-width:320px) {
   nav {
   float: left;
   margin-top: 30px;
   }
 }
 
-@media (min-width:481px) {
+@media (min-width:321px) {
     nav {
   float: right;
   margin-top: 20px;
@@ -68,6 +78,14 @@ nav a {
   text-align: right;
 }
 
+@media all and (min-width:481px) {
+  .copylink {
+  font-size: 110px;
+  text-transform: uppercase;
+  line-height: 85%;
+  }
+}
+
 @media (min-width:768px) and (max-width: 979px) {
   .copylink {
   font-size: 90px;
@@ -76,25 +94,9 @@ nav a {
   }
 }
 
-@media (min-width:980px) {
-  .copylink {
-  font-size: 110px;
-  text-transform: uppercase;
-  line-height: 85%;
-  }
-}
-
-@media (max-width:767px) {
-  .copylink {
-  font-size: 110px;
-  text-transform: uppercase;
-  line-height: 85%;
-  }
-}
-
 @media (max-width:480px) {
   .copylink {
-  font-size: 90px;
+  font-size: 70px;
   text-transform: uppercase;
   line-height: 85%;
   }
