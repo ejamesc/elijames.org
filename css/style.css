@@ -7,8 +7,8 @@ body { font-family: 'adelle', Georgia, serif; }
 
 p, li { 
   line-height: 140%; 
-  font-size: 16px; 
-  font-family: Georgia, serif; 
+  font-size: 17px; 
+  font-family: 'calluna', Georgia, serif; 
 }
 
 /* Header and Navigation styles */
@@ -87,7 +87,6 @@ nav a {
 }
 
 .social {
-  font-family: Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   padding: 10px 0 10px 20px;
   margin-top: 15px;
@@ -115,7 +114,7 @@ footer {
 }
 
 .content h1 { margin-bottom: 0.9em; }
-.content p { margin: 23px 0; }
+.content p { margin: 21px 0; }
 
 /* Sidebar styles */
 .sidebar p {
@@ -141,7 +140,7 @@ footer {
   margin-bottom: 10px;
 }
 
-.posts li a { font-size: 25px; }
+.posts li a { font: 25px 'adelle', Georgia, serif; }
 
 .posts li span {
   color: #999;
