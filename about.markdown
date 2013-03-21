@@ -6,7 +6,7 @@ title: About
 #About Me
 <img src="http://farm4.staticflickr.com/3162/3098073926_5e963bd790_z.jpg" width="640" height="427" alt="I Miss Judo">
 
-I'm a writer, programmer, and occasional designer. I've done a few of things I'm happy about.
+I'm a writer, programmer, and occasional designer. I've done a few things I'm happy about.
 
 I started [Novelr](http://www.novelr.com) in 2006, a blog on digital publishing. In its 6 year run, Novelr has been quoted by Business Insider, The Guardian, Daring Fireball and TechMeme. 
 
