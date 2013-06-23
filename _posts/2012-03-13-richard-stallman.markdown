@@ -21,7 +21,7 @@ title: Do We Need A New Richard Stallman?
 
 <p>And then, almost as an after-thought: "The answer to this is to store your own data, instead of storing it all on Facebook."</p>
 
-<h3>A Stallman for the Internet</h3>
+<h4>A Stallman for the Internet</h4>
 
 <p>When Stallman saw that proprietary software was threatening the hacker culture he grew up in, he responded by creating a credible alternative. It took him a few decades, and a couple hundred people, but he did it. Similarly, we may need someone to create a credible alternative to Facebook.</p>
 
@@ -37,14 +37,14 @@ title: Do We Need A New Richard Stallman?
 
 <p>So the network problem is a big one. But I don't think it's impossible to solve. Paul Graham <a href="http://paulgraham.com/ambitious.html">suggests</a> that the right way to solve a big problem is to approach it indirectly. The way to create an alternative social network probably <em>isn't</em> to say that you'll create an alternative social network. The right way is to probably say that you're building an <a href="https://about.me/">about.me</a>.</p>
 
-<h3>Free Data</h3>
+<h4>Free Data</h4>
 
 <p>Let me go back to the original assertion of this essay: "what if the Free Software movement is irrelevant?" It isn't, of course, not entirely. But I do believe that the biggest threat to our digital freedoms is no longer in the realm of proprietary software. If anything, it lies now in the realm of unfree data.</p>
 
 <p>My generation needs a Free Data movement, just as Stallman's generation needed a Free Software movement. Free Software has arguably made the world a better place: better for programmers, and better for users. Free Data is but an extension: the same principles, applied to networked applications in a networked world. The challenges are different. The liberties at risk are the same.</p>
 
 <p>Here's one last thought: in 1983, people needed Stallman to show the way. We'll probably need someone like that today. I hope we find him soon.</p>
-<h3>Notes</h3>
+<h4>Footnotes</h4>
 <p>[1] A logical extension of this argument seems to be: social networking is so important that it should be a public utility. But that's an idea for a different essay.</p>
 <p>[2] To be exact, this is known as Metcalfe's Law.</p>
 

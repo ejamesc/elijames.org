@@ -52,7 +52,7 @@ title: Talent Waste
 
 <p>The way this one certainly is.</p>
 
-<h3>Notes</h3>
+<h4>Footnotes</h4>
 <p><sup>[1]</sup> I propose that you're only allowed to deride people who create <em>negative</em> social value e.g. investment bankers.</p>
 
 <p><sup>[2]</sup> That is not to say that you can't think of ways to <em>increase</em> your value creation. For instance, you might serve with an NGO on the side, or engage in philanthropy. But that is very different from judging and prescribing different levels of meaning in work.</p>

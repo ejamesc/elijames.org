@@ -60,7 +60,7 @@ title: Leverage
 
 <p>Use it to your advantage.</p>
 
-<p><h3>Footnotes</h3></p>
+<p><h4>Footnotes</h4></p>
 
 <p><sup>[1]</sup> The literature on motivation shows that people love their work when a) they feel they're good at what they do, and b) they feel like they're making an impact on the world.</p>
 
