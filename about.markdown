@@ -16,7 +16,8 @@ I spoke twice at Books in Browsers, a private conference for book technologists 
 
 In late 2011 I contributed [a chapter](http://book.pressbooks.com/chapter/web-literature-eli-james) to [Book: A Futurist's Manifesto](http://book.pressbooks.com/), a collection of essays on the future of publishing to be released by O'Reilly Media and Pressbooks in 2012. I'm rather happy with it: I consider it one of my better essays.
 
-I try as much as possible to [write open source software](https://github.com/shadowsun7).
+I try as much as possible to [write open source
+software](https://github.com/ejamesc).
 
 From mid-2010 - late-2012 I served as President of the [NUS Hackers](http://nushackers.org/). I started [Friday Hacks](http://nushackers.org/fridayhacks/) and ran the first Hack&Roll Hackathon. Whatever free time I have left is spent growing the community of hackers and builders in NUS. This mostly means setting up partnerships, organizing events, and writing software to make the club more scalable.
 
