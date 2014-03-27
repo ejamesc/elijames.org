@@ -14,7 +14,7 @@ In 2010-2011 I co-founded and ran [Pandamian](http://pandamian.com), a digital p
 
 I spoke twice at Books in Browsers, a private conference for book technologists organized by the Internet Archive, in San Francisco. A transcript of the first talk may be found [here](http://www.novelr.com/2010/10/24/pandamian-a-publishing-support-layer); a video of the second is available [on Youtube](http://www.youtube.com/watch?v=mfsLORO7OAU). I am still working on many of the ideas in both talks.
 
-In late 2011 I contributed [a chapter](http://book.pressbooks.com/chapter/web-literature-eli-james) to [Book: A Futurist's Manifesto](http://book.pressbooks.com/), a collection of essays on the future of publishing to be released by O'Reilly Media and Pressbooks in 2012. I'm rather happy with it: I consider it one of my better essays.
+In late 2011 I contributed [a chapter](http://book.pressbooks.com/chapter/web-literature-eli-james) to [Book: A Futurist's Manifesto](http://book.pressbooks.com/), a collection of essays on the future of publishing released by O'Reilly Media and Pressbooks in 2012. I'm rather happy with it: I consider it one of my better essays.
 
 I try as much as possible to [write open source
 software](https://github.com/ejamesc).
@@ -25,5 +25,5 @@ In a previous life, I played Judo for my state _(2008 National Championships; Sa
 
 I like Python, green tea and cats. I think vanilla ice cream is better than chocolate ice cream, and I will fight you on that.
 
-I'm always interested in meeting people who are building cool things. Email me at ejames at pandamian.com
+I'm always interested in meeting people who are building cool things. Email me at cedric at elijames.org
 
